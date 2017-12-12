@@ -1,1 +1,1 @@
-web: runbot.bat
+worker: python fagbot.py
